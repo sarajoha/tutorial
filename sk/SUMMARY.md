@@ -5,7 +5,7 @@
   * [Python](installation/README.md#inštalácia-pythonu)
   * [Editoru kódu](installation/README.md#inštalácia-editoru-kódu)
   * [Virtuálne Prostredie](installation/README.md#nastavenie-virtualenv-a-inštalácia-django)
-  * [Django](installation/README.md#nastavenie-virtualenv-a-inštalácia-django)
+  * [Django](installation/README.md#inštalácia-djanga)
   * [Git](installation/README.md#inštalácia-gitu)
   * [GitHub](installation/README.md#vytvorenie-gitHub-účtu)
   * [PythonAnywhere](installation/README.md#vytvor-si-pythonAnywhere-účet)
