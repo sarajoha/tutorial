@@ -2,6 +2,13 @@
 
 * [Introduzione](README.md)
 * [Installazione](installation/README.md)
+  * [Python](installation/README.md#installare-python)
+  * [Editor di testo](installation/README.md#installare-un-editor-di-codice)
+  * [Ambiente Virtuale](installation/README.md#preparare-virtualenv-e-installare-django)
+  * [Django](installation/README.md#installare-django)
+  * [Git](installation/README.md#installare-git)
+  * [GitHub](installation/README.md#creare-un-account-github)
+  * [PythonAnywhere](installation/README.md#creare-un-account-pythonanywhere)
 * [Come funziona Internet](how_the_internet_works/README.md)
 * [Introduzione al command line](intro_to_command_line/README.md)
 * [Installazione di Python](python_installation/README.md)
